@@ -1,0 +1,17 @@
+{
+  "users":[
+    {
+      "username":"Noir",
+      "role":"admin"
+    }
+  ],
+
+  "scripts":[
+    {
+      "title":"Universal Hub",
+      "views":12000,
+      "likes":900,
+      "verified":true
+    }
+  ]
+}
